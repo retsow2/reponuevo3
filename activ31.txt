@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ddddtextotttttttttt
+=======
+asdasdadasdaddtextotttttttttt
+>>>>>>> actividad3
